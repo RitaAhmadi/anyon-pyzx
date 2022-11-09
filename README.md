@@ -6,4 +6,4 @@ In this paper, we rectify confusion around a category describing an anyonic theo
 
 
 [1]: https://arxiv.org/abs/1904.04735
-[2]: 
+[2]: https://arxiv.org/abs/2211.03855
